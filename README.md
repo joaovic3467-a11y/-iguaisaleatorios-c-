@@ -1,0 +1,2 @@
+# -iguaisaleatorios-c-
+Atividade escolar
